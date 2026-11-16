@@ -1,2 +1,2 @@
 <h1>Сайт Ушаковой Евгении</h1>
-<a href = ./26/index26.html>
+<a href = "./26/index26.html">
