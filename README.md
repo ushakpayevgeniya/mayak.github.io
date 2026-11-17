@@ -1,60 +1,30 @@
 <h1>Сайт Ушаковой Евгении</h1>
-
-
-
-<a href="cats.html">Практика 1</a>. Вставка картинки kitty.jpg
-
-<a href="flag.html">Практика 2</a>. Рисование флагов
-
-<a href="dogs.html">Практика 3.1</a>. Собаки
-
-<a href="lists.html">Практика 3.2</a>. Устройство компьютера
-
-<a href="anchors.html">Практика 4.1</a>. Песни из мультфильмов
-
-<a href="text.html">Практика 4.2</a>. Примеры оформления текста. Часть 1.
-
-<a href="text2.html">Практика 5</a>. Примеры оформления текста. Часть 2.
-
-<a href="catss.html">Практика 6.1</a>. Про кошек. Часть 1.
-
-<a href="cats1.html">Практика 6.2</a>. Про кошек. Часть 2
-
-<a href="img (1).html">Практика 7</a>. Музыка XX века
-
-<a href="public.html">Практика 8</a>. Публикация сайта на веб-хостинге beget
-
-<a href="multi.html">Практика 9</a>. Мультимедиа на веб-странице
-
-<a href="versktka.html">Практика 10</a>. Табличная верстка 1
-
-<a href="table.html">Практика 11</a>. Табличная верстка 2
-
-<a href="baikal.html">Практика 12</a>. Озеро Байкал
-
-<a href="valaam.html">Практика 13</a>. Остров Валаам
-
-<a href="rabota.html">Практика 14</a>. Figma. Начало работы
-
-<a href="kurs.html">Практика 15</a>. Figma. Фреймы
-
-<a href="fashion.html">Практика 16</a>. Figma. Сетка
-
-<a href="work.html">Практика 17</a>. Figma2. Знакомство
-
-<a href="frame.html">Практика 18</a>. Figma2. Базовые инструменты
-
-<a href="setka.html">Практика 19</a>. Figma2. Сетка
-
-<a href="teext.html">Практика 20</a>. Figma2. Типографика
-
-<a href="proekt1.html">Практика 21,22</a>. Figma3. Проект 1
-
-<a href="proekt2.html">Практика 23</a>. Figma3. Проект 2
-
-<a href = "./практика 24/index24\_5.html">Ссылка на работу 24</a>
-
-<a href = "./25/index25.html">Ссылка на работу 25</a>
-
-<a href = "./26/index26.html">Ссылка на работу 26</a>
-
+    <a href="cats.html">Практика 1. Вставка картинки kitty.jpg</a><br>
+    <a href="flag.html">Практика 2. Рисование флагов</a><br>
+    <a href="dogs.html">Практика 3.1. Собаки</a><br>
+    <a href="lists.html">Практика 3.2. Устройство компьютера</a><br>
+    <a href="anchors.html">Практика 4.1. Песни из мультфильмов</a><br>
+    <a href="text.html">Практика 4.2. Примеры оформления текста. Часть 1.</a><br>
+    <a href="text2.html">Практика 5. Примеры оформления текста. Часть 2.</a><br>
+    <a href="catss.html">Практика 6.1. Про кошек. Часть 1.</a><br>
+    <a href="cats1.html">Практика 6.2. Про кошек. Часть 2</a><br>
+    <a href="img (1).html">Практика 7. Музыка XX века</a><br>
+    <a href="public.html">Практика 8. Публикация сайта на веб-хостинге beget</a><br>
+    <a href="multi.html">Практика 9. Мультимедиа на веб-странице</a><br>
+    <a href="versktka.html">Практика 10. Табличная верстка 1</a><br>
+    <a href="table.html">Практика 11. Табличная верстка 2</a><br>
+    <a href="baikal.html">Практика 12. Озеро Байкал</a><br>
+    <a href="valaam.html">Практика 13. Остров Валаам</a><br>
+    <a href="rabota.html">Практика 14. Figma. Начало работы</a><br>
+    <a href="kurs.html">Практика 15. Figma. Фреймы</a><br>
+    <a href="fashion.html">Практика 16. Figma. Сетка</a><br>
+    <a href="work.html">Практика 17. Figma2. Знакомство</a><br>
+    <a href="frame.html">Практика 18. Figma2. Базовые инструменты</a><br>
+    <a href="setka.html">Практика 19. Figma2. Сетка</a><br>
+    <a href="teext.html">Практика 20. Figma2. Типографика</a><br>
+    <a href="proekt1.html">Практика 21,22. Figma3. Проект 1</a><br>
+    <a href="proekt2.html">Практика 23. Figma3. Проект 2</a><br>
+    <a href="24_5.html">Практика 24. Ссылка на работу 24</a><br>
+    <a href="i25.html">Практика 25. Ссылка на работу 25</a><br>
+    <a href="26.html">Практика 26. Ссылка на работу 26</a><br>
+    <a href="27.html">Практика 27. Ссылка на работу 27</a>
