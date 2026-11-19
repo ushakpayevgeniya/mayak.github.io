@@ -1,30 +1,58 @@
-<h1>Сайт Ушаковой Евгении</h1>
-    <a href="cats.html">Практика 1. Вставка картинки kitty.jpg</a><br>
-    <a href="flag.html">Практика 2. Рисование флагов</a><br>
-    <a href="dogs.html">Практика 3.1. Собаки</a><br>
-    <a href="lists.html">Практика 3.2. Устройство компьютера</a><br>
-    <a href="anchors.html">Практика 4.1. Песни из мультфильмов</a><br>
-    <a href="text.html">Практика 4.2. Примеры оформления текста. Часть 1.</a><br>
-    <a href="text2.html">Практика 5. Примеры оформления текста. Часть 2.</a><br>
-    <a href="catss.html">Практика 6.1. Про кошек. Часть 1.</a><br>
-    <a href="cats1.html">Практика 6.2. Про кошек. Часть 2</a><br>
-    <a href="img (1).html">Практика 7. Музыка XX века</a><br>
-    <a href="public.html">Практика 8. Публикация сайта на веб-хостинге beget</a><br>
-    <a href="multi.html">Практика 9. Мультимедиа на веб-странице</a><br>
-    <a href="versktka.html">Практика 10. Табличная верстка 1</a><br>
-    <a href="table.html">Практика 11. Табличная верстка 2</a><br>
-    <a href="baikal.html">Практика 12. Озеро Байкал</a><br>
-    <a href="valaam.html">Практика 13. Остров Валаам</a><br>
-    <a href="rabota.html">Практика 14. Figma. Начало работы</a><br>
-    <a href="kurs.html">Практика 15. Figma. Фреймы</a><br>
-    <a href="fashion.html">Практика 16. Figma. Сетка</a><br>
-    <a href="work.html">Практика 17. Figma2. Знакомство</a><br>
-    <a href="frame.html">Практика 18. Figma2. Базовые инструменты</a><br>
-    <a href="setka.html">Практика 19. Figma2. Сетка</a><br>
-    <a href="teext.html">Практика 20. Figma2. Типографика</a><br>
-    <a href="proekt1.html">Практика 21,22. Figma3. Проект 1</a><br>
-    <a href="proekt2.html">Практика 23. Figma3. Проект 2</a><br>
-    <a href="24_5.html">Практика 24. Ссылка на работу 24</a><br>
-    <a href="i25.html">Практика 25. Ссылка на работу 25</a><br>
-    <a href="26.html">Практика 26. Ссылка на работу 26</a><br>
-    <a href="27.html">Практика 27. Ссылка на работу 27</a>
+Работа Ушаковой Евгении
+
+
+
+\* \[Практика 1](cats.html)
+
+\* \[Практика 2](flag.html)
+
+\* \[Практика 3](dogs.html)
+
+\* \[Практика 4](anchors.html)
+
+\* \[Практика 5](text2.html)
+
+\* \[Практика 6](catss.html)
+
+\* \[Практика 7](img%20(1).html)
+
+\* \[Практика 8](public.html)
+
+\* \[Практика 9](multi.html)
+
+\* \[Практика 10](versktka.html)
+
+\* \[Практика 11](table.html)
+
+\* \[Практика 12](baikal.html)
+
+\* \[Практика 13](valaam.html)
+
+\* \[Практика 14](rabota.html)
+
+\* \[Практика 15](kurs.html)
+
+\* \[Практика 16](fashion.html)
+
+\* \[Практика 17](work.html)
+
+\* \[Практика 18](frame.html)
+
+\* \[Практика 19](setka.html)
+
+\* \[Практика 20](teext.html)
+
+\* \[Практика 21](proekt1.html)
+
+\* \[Практика 22](proekt1.html)
+
+\* \[Практика 23](proekt2.html)
+
+\* \[Практика 24](24\_5.html)
+
+\* \[Практика 25](i25.html)
+
+\* \[Практика 26](26.html)
+
+\* \[Практика 27](27.html)
+
