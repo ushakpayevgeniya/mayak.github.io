@@ -2,8 +2,6 @@ document.addEventListener("DOMContentLoaded", function() {
     let currentPath = window.location.pathname;
     let currentPage = currentPath.substring(currentPath.lastIndexOf('/') + 1);
 
-    // Список файлов, где ДОЛЖНО быть меню
-    const allowedPages = ["1.html", "4.html", "24_5.html"];
 
     // Если текущей страницы нет в списке разрешенных — выходим, ничего не делаем
     if (!allowedPages.includes(currentPage)) return;
