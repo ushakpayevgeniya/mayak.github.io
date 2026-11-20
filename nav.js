@@ -13,7 +13,6 @@ document.addEventListener("DOMContentLoaded", function() {
         <a href="4.html" style="color: #800080; text-decoration: underline; margin: 0 5px;">Задание 2</a> | 
         <a href="24_5.html" style="color: #800080; text-decoration: underline; margin: 0 5px;">Задание 3</a>
     </div>
-    <div style="padding: 0 15px;">
         <a href="index.html" style="color: #800080; text-decoration: underline; font-family: Arial, sans-serif; font-size: 18px;">Назад</a>
     </div>`;
 
