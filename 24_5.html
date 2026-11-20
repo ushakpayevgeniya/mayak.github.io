@@ -1,22 +1,80 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
-<title>Задача 24.5</title>
-<script src="test24_5.js"></script>
+    <meta charset="UTF-8">
+    <title>Работа Ушаковой Евгении</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 10px 20px;
+        }
+        /* Стили для верхнего меню */
+        .top-nav {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+        .top-nav a {
+            color: #800080; /* Фиолетовый цвет */
+            text-decoration: underline;
+        }
+        .top-nav span {
+            color: #333;
+            margin: 0 5px;
+        }
+        /* Стили для ссылки "Назад" */
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+            color: #800080; /* Фиолетовый */
+            text-decoration: underline;
+        }
+        /* Заголовок */
+        h1 {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        /* Стили для списка радиостанций */
+        .radio-list {
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .radio-list label {
+            display: block;
+            cursor: pointer;
+        }
+        .radio-list input[type="radio"] {
+            margin-right: 5px;
+        }
+    </style>
 </head>
-
 <body>
-<h1>Работа Ушаковой Евгении</h1>
-<form>
-<input type= "radio" name="radistation">Радиостанция Маяк</input>
-<br>
-<input type= "radio" name="radistation">Радиостанция Наталья Леонидовна</input>
-<br>
-<input type= "radio" name="radistation">Радиостанция Нарцисс</input>
-<br>
-<input type= "radio" name="radistation">676767</input>
-<br>
-<input type= "radio" checked name="radistation">Шимпанзини Бананини</input>
-<script src="nav.js"></script>
+
+    <!-- 1. Верхнее меню заданий -->
+    <div class="top-nav">
+        <a href="1.html">Задание 1</a> <span>|</span>
+        <a href="4.html">Задание 2</a> <span>|</span>
+       
+    </div>
+
+    <!-- 2. Ссылка "Назад" на главную -->
+    <a href="index.html" class="back-link">Назад</a>
+
+    <!-- 3. Заголовок -->
+    <h1>Работа Ушаковой Евгении</h1>
+
+    <!-- 4. Ваш список радиостанций -->
+    <div class="radio-list">
+        <label><input type="radio" name="radio_station" value="Маяк"> Радиостанция Маяк</label>
+        <label><input type="radio" name="radio_station" value="Наталья Леонидовна"> Радиостанция Наталья Леонидовна</label>
+        <label><input type="radio" name="radio_station" value="Нарцисс"> Радиостанция Нарцисс</label>
+        <label><input type="radio" name="radio_station" value="676767"> 676767</label>
+        <label><input type="radio" name="radio_station" value="Шимпанзини Бананини" checked> Шимпанзини Бананини</label>
+    </div>
+
 </body>
 </html>
