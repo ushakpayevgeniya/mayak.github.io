@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const pages = [
         "cats.html", "flag.html", "dogs.html", "lists.html", 
         "anchors.html", "text.html", "text2.html", "catss.html", 
-        "cats1.html", "img (1).html", "public.html", "multi.html", 
+        "cats1.html", "music.html", "public.html", "multi.html", 
         "versktka.html", "table.html", "baikal.html", "valaam.html", 
         "rabota.html", "kurs.html", "fashion.html", "work.html", 
         "frame.html", "setka.html", "teext.html", "proekt1.html", 
